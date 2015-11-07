@@ -21,12 +21,7 @@ Public Class Form1
     End Sub
 End Class
 
-''' <summary>
-''' 
-''' </summary>
-Public Class Negocio
 
-End Class
 ''' <summary>
 ''' Clase Jugador resumida y simplificada
 ''' </summary>
